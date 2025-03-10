@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NDxQE9fbP8E=",
+  "success": true,
+  "projectFilePath": "/Users/phanhieu/COS20007/Demo LSTM Model/Demo.csproj",
+  "expectedPackageFiles": [
+    "/Users/phanhieu/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512",
+    "/Users/phanhieu/.nuget/packages/splashkit/1.2.0/splashkit.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

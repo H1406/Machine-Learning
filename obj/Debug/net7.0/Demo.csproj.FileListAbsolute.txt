@@ -1,0 +1,14 @@
+/Users/phanhieu/COS20007/Demo/bin/Debug/net7.0/Demo
+/Users/phanhieu/COS20007/Demo/bin/Debug/net7.0/Demo.deps.json
+/Users/phanhieu/COS20007/Demo/bin/Debug/net7.0/Demo.runtimeconfig.json
+/Users/phanhieu/COS20007/Demo/bin/Debug/net7.0/Demo.dll
+/Users/phanhieu/COS20007/Demo/bin/Debug/net7.0/Demo.pdb
+/Users/phanhieu/COS20007/Demo/obj/Debug/net7.0/Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phanhieu/COS20007/Demo/obj/Debug/net7.0/Demo.AssemblyInfoInputs.cache
+/Users/phanhieu/COS20007/Demo/obj/Debug/net7.0/Demo.AssemblyInfo.cs
+/Users/phanhieu/COS20007/Demo/obj/Debug/net7.0/Demo.csproj.CoreCompileInputs.cache
+/Users/phanhieu/COS20007/Demo/obj/Debug/net7.0/Demo.dll
+/Users/phanhieu/COS20007/Demo/obj/Debug/net7.0/refint/Demo.dll
+/Users/phanhieu/COS20007/Demo/obj/Debug/net7.0/Demo.pdb
+/Users/phanhieu/COS20007/Demo/obj/Debug/net7.0/Demo.genruntimeconfig.cache
+/Users/phanhieu/COS20007/Demo/obj/Debug/net7.0/ref/Demo.dll
